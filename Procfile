@@ -1,1 +1,1 @@
-discordbot: python JamilDice.py
+discordbot1-jamil: python JamilDice.py
